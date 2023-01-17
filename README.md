@@ -68,6 +68,9 @@ https://eduweb.pl/programowanie-i-www/html-css/html-css-od-podstaw
 
 - Website - [Linderinn](http://project1309385.tilda.ws/studio)
 - Frontend Mentor - [@linderinn](https://www.frontendmentor.io/profile/linderinn)
-- LinkedIn - (https://www.linkedin.com/in/joanna-sibrecht/)
-- GitHub - (https://github.com/Linderinn/)
+- LinkedIn - [Business Profile](https://www.linkedin.com/in/joanna-sibrecht/)
+- GitHub - [My GitHub Profile- Linderinn](https://github.com/Linderinn/)
+
+
+- I have cooperated with: https://rcpexhausts.com/ https://aloespolska.com/ 
 
